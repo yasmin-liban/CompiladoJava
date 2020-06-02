@@ -1,0 +1,2 @@
+    1. Crie uma classe chamado Number, nela devemos ter atributos para representar a casa das unidades, dezenas e centenas. Caso nescessário, crie mais atributos para outras casas como unidades de milhar, dezena de milhar e etc. Crie pelo menos um construtor que irá inicializar todas as casas da várivel.
+    2. Crie  uma classe com o metodo main e nela crie dois métodos, Somar e Subtrair, que receberão dois objetos Number (de no maximo 3 casas decimas) e irão respectivamente somar e subtraiar eles e retornar o resultado num outro objeto Number

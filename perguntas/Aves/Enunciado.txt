@@ -1,0 +1,3 @@
+
+1. Sem a ajuda de um compilador, diga, o código a seguir irá compilar? Se não diga o porque e oque poderia alterar para faze-lo compilar 		(atenção: você só podera mudar uma linha).
+2. Após a mudança oque sairia no console?

@@ -1,0 +1,32 @@
+    1) Por que precisamos inicializar um objeto quando criamos uma variável de instância?
+
+    2) Uma classe com o método main pode ser instanciada? Qual o objetivo do método main num programa Java?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Respostas:
+
+    1) A variável de instância antes de ser inicializada é somente um receptáculo vazio. Ela tem o formato especifico para compactar um objeto da classe referida mas sem o próprio objeto ela não possui nenhuma informação de relevância.
+
+    2) Pode, o objetivo do método main é o ponto de partida do Java Virtual Machine, que é quem compilar o código Java. Mas não se deve chamar o método main dentro de quaisquer outro método.
